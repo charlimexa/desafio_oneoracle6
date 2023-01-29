@@ -1,0 +1,5 @@
+// lanzador
+
+public class Hotel{
+
+}
