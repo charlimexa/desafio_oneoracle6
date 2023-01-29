@@ -59,7 +59,9 @@ public class BaseDeDatos {
     
         @Override
         public String getServletInfo() {
+
             return "Short description";
+            
         }// </editor-fold>
     
     } 
